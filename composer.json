@@ -1,0 +1,24 @@
+{
+  "name": "erikgall/presenter",
+  "description": "Simple view presenters",
+  "require": {
+    "php": ">=5.4",
+    "illuminate/support": "~5.0"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.0",
+    "mockery/mockery": "~0.9"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Erik Galloway",
+      "email": "erik@mybarnapp.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "EGALL\\Presenter": "src/"
+    }
+  }
+}

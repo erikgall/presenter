@@ -1,0 +1,5 @@
+suites:
+  laracasts_suite:
+    namespace: EGALL
+    src_path: src
+    spec_prefix: spec
